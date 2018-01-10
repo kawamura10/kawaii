@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "358650334999",
+    "firebase_url": "https://quizu-e6b4e.firebaseio.com",
+    "project_id": "quizu-e6b4e",
+    "storage_bucket": "quizu-e6b4e.appspot.com"
+  },
+  "client": [
+ /*   {
+      "client_info": {
+        "mobilesdk_app_id": "1:358650334999:android:8e4aeba9392bad5c",
+        "android_client_info": {
+          "package_name": "com.example.nttr.quizu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358650334999-8t3vo2k2bofbcl4874o0ltu47nqebcs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nttr.quizu",
+            "certificate_hash": "a8ca98c1ad13f8ac76aee61811339db4e702b2cb"
+          }
+        },
+        {
+          "client_id": "358650334999-h9s5ecac7k1gtf1b8r5keg1c8ldjmfs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblLgD5RRJiIYS2uu6mPhEvAvP2NSTdFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358650334999-h9s5ecac7k1gtf1b8r5keg1c8ldjmfs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },*/
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358650334999:android:526e0e7e0f03aa29",
+        "android_client_info": {
+          "package_name": "jp.co.atschool.kawaii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358650334999-26lhj9ltpvdel0p7ihievntcu5sb23p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.atschool.kawaii",
+            "certificate_hash": "a8ca98c1ad13f8ac76aee61811339db4e702b2cb"
+          }
+        },
+        {
+          "client_id": "358650334999-h9s5ecac7k1gtf1b8r5keg1c8ldjmfs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblLgD5RRJiIYS2uu6mPhEvAvP2NSTdFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358650334999-h9s5ecac7k1gtf1b8r5keg1c8ldjmfs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358650334999:android:093c895c4d37fa64",
+        "android_client_info": {
+          "package_name": "atschool.co.jp.kawaii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358650334999-j84894cb67lbu0brd9i115b68vgccorv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "atschool.co.jp.kawaii",
+            "certificate_hash": "a8ca98c1ad13f8ac76aee61811339db4e702b2cb"
+          }
+        },
+        {
+          "client_id": "358650334999-h9s5ecac7k1gtf1b8r5keg1c8ldjmfs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCblLgD5RRJiIYS2uu6mPhEvAvP2NSTdFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358650334999-h9s5ecac7k1gtf1b8r5keg1c8ldjmfs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
